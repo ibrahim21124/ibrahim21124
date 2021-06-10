@@ -2,7 +2,11 @@
 - 👀 I’m interested in Internet of Things and Data Analytics
 - 🌱 I’m currently learning Image Processing and Data Analysis
 - 💞️ I’m looking to collaborate on Open CV, Data Analysis and Python based Projects
-- 📫 How to reach me: ikoicha10@gmail.com
+- 💼 I’m pursuing a Bachelor's degree in Electronics Engineering
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via ikoicha10@gmail.com to reach me.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1d7-BXnELs60hBYu5pPJ17SysHwLTPbhf/view?usp=sharing) to get more info.
+
 
 ---
 
