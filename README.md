@@ -1,11 +1,11 @@
 ### Hey 👋, I'm Ibrahim
-- 👀 I’m interested in Internet of Things and Data Analytics
-- 🌱 I’m currently learning Image Processing and Data Analysis
-- 💞️ I’m looking to collaborate on Open CV, Data Analysis and Python based Projects
+- 👀 I am working as a Software Developer at Capgemini (1.5 Years)
+- 🌱 I’m currently learning Machine Learning and Neural Networks
+- 💞️ I’m looking to collaborate on Natural Language Processing Projects along with some experience on Large Language Models
 - 💼 I’m pursuing a Bachelor's degree in Electronics Engineering
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via ikoicha10@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1d7-BXnELs60hBYu5pPJ17SysHwLTPbhf/view?usp=sharing) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1QQebllSsnGPTjNdamkWq2fcIHTBZUFSn/view?usp=sharing) to get more info.
 
 
 ---
